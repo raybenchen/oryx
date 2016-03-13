@@ -5,7 +5,7 @@ and [Apache Kafka](http://kafka.apache.org), but with specialization for real-ti
 learning. It is a framework for building applications, but also includes packaged, end-to-end 
 applications for collaborative filtering, classification, regression and clustering.
 
-Proceed to the [Oryx 2 site](http://oryx.io/) for full documentation.
+Proceed to the [Oryx 2 site](http://oryx.io/ ) for full documentation.
 
 Just looking to deploy a ready-made, end-to-end application for collaborative filtering, clustering or classification? Easy.
 Proceed directly to:
